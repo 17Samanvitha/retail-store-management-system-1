@@ -1,2 +1,2 @@
-# retail-store-management-system-1
+# retailstorebillmanagementsystem-1
 new repo
